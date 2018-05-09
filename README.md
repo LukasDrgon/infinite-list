@@ -66,6 +66,11 @@ If you need it as a standalone script that is referenced from your html file the
 npm install infinite-list
 ```
 
+### Via CDN
+```
+<script src="https://cdn.jsdelivr.net/npm/infinite-list@1/dist/InfiniteList.min.js"></script>
+```
+
 ### bower
 ```
 bower install infinite-list
